@@ -18,7 +18,7 @@ function draw() {
   strokeWeight (2)
  //DIAM(KIRI)
   //lengan
-  fill(0,0,255);
+  fill(135,206,235);
   ellipse (71,109,28,36);
   ellipse (129, 109,28,36);
   //tangan
@@ -30,14 +30,14 @@ function draw() {
   ellipse (77,155,36,15);
   ellipse (121,155,36,15);
   //badan
-  fill (0,0,255);
+  fill (135,206,235);
   ellipse (100,117,72,75);
   fill(255,255,255);
   ellipse (100,114,65,60);
   fill (255,0,0);
   rect (67.5,85,65,8);
   //kepala
-  fill(0,0,255);
+  fill(135,206,235);
   ellipse (100,57,80,70);
   fill (255,255,255);
   ellipse (100,62,76,60);
@@ -77,7 +77,7 @@ function draw() {
 
 //GERAK (KANAN)
   //lengan
-  fill(0,0,255);
+  fill(135,206,235);
   ellipse (271,109,28,36);
   ellipse (329, 109,28,36);
   //tangan
@@ -89,14 +89,14 @@ function draw() {
   ellipse (277,155,36,15);
   ellipse (321,155,36,15);
   //badan
-  fill (0,0,255);
+  fill (135,206,235);
   ellipse (300,117,72,75);
   fill(255,255,255);
   ellipse (300,114,65,60);
   fill (255,0,0);
   rect (267.5,85,65,8);
   //kepala
-  fill(0,0,255);
+  fill(135,206,235);
   ellipse (300,57,80,70);
   fill (255,255,255);
   ellipse (300,62,76,60);
